@@ -29,8 +29,8 @@ Real-time updates: AJAX polling
 
 
 ## Images
-<img src="project-img/1.jpg" alt="Logo" width="200"/>
-<img src="project-img/2.jpg" alt="Logo" width="200"/>
-<img src="project-img/3.jpg" alt="Logo" width="200"/>
-<img src="project-img/4.jpg" alt="Logo" width="200"/>
+<img src="project-img/1.jpg" alt="Logo" width="800"/>
+<img src="project-img/2.jpg" alt="Logo" width="800"/>
+<img src="project-img/3.jpg" alt="Logo" width="800"/>
+<img src="project-img/4.jpg" alt="Logo" width="800"/>
 
